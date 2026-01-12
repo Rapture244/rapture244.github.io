@@ -1,3 +1,47 @@
-baseURL = 'https://example.org/'
+# ================================================================================================ #
+# Site Configuration                                                                               #
+# ================================================================================================ #
+
+baseURL = 'https://rapture244.github.io/'
+title = 'Ovidiu Pascal'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+theme = 'hugo-coder'
+
+# ================================================================================================ #
+# Theme Parameters                                                                                 #
+# ================================================================================================ #
+
+[params]
+  author = 'Ovidiu Pascal'
+  description = 'Software Engineer in Operational Research'
+  info = 'Software Engineer'
+  avatarURL = 'images/avatar.jpg'
+  colorScheme = 'auto'
+
+# ================================================================================================ #
+# Navigation Menu                                                                                  #
+# ================================================================================================ #
+
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "projects/"
+
+# ================================================================================================ #
+# Social Links                                                                                     #
+# ================================================================================================ #
+
+[[params.social]]
+  name = "GitHub"
+  icon = "fa-brands fa-github"
+  url = "https://github.com/Rapture244"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin"
+  url = "https://www.linkedin.com/in/ovidiu-pascal/"
