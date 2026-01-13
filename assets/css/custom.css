@@ -20,3 +20,12 @@ body:not(.list):not(.single) .about i[class*="fa-"] {
 .navigation-title {
   font-size: 2.75rem !important;
 }
+
+/* ================================================================================================ */
+/* Space Out Navigation Menu Items                                                                 */
+/* ================================================================================================ */
+
+/* Add spacing between menu items */
+.navigation-list li {
+  margin: 0 0.30rem !important;
+}
