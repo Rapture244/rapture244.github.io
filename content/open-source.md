@@ -9,7 +9,7 @@ description: "Open source contributions and projects"
  
 [<i class="fa-brands fa-github"></i> GitHub](https://github.com/Orange-OpenSource/pygraft-gen) &nbsp;&nbsp; | &nbsp;&nbsp; <i class="fa-solid fa-book"></i> Documentation Docs (coming soon)
 
-**Role:** Creator & Lead Maintainer
+**Role:** Co-Creator & Lead Maintainer
 
 **PyGraft-gen** is an open-source Python library for generating RDFS/OWL ontologies and RDF Knowledge Graphs at scale.
 
