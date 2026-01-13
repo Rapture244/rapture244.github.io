@@ -6,7 +6,7 @@ description: "Software Engineer bridging research and delivery at Orange Innovat
 
 I'm a Software Engineer in the DATA-AI entity at [Orange Innovation](https://hellofuture.orange.com/), where I bridge research and delivery. I work alongside researchers, helping them transition their mathematical models and optimization algorithms into production systems that address concrete operational challenges.
 
-My work spans **Knowledge Engineering**, **Operational Research**, and **Graph Theory**. I specialize in Semantic Web technologies (Knowledge Graphs, ontologies) and network optimization, tackling both research problems and their operational deployment.
+My work spans **Knowledge Engineering**, **Operational Research**, and **Graph Theory**. I specialize in Semantic Web technologies (Knowledge Graphs, ontologies) and production system development, tackling both research problems and their operational deployment.
 
 In connection with my work, I'm also interested in:
 
