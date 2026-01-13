@@ -1,0 +1,8 @@
+/* ================================================================================================ */
+/* Social Icons Styling - Homepage Only                                                            */
+/* ================================================================================================ */
+
+/* Target homepage by checking if we're at root */
+body:not(.list):not(.single) i[class*="fa-"] {
+  font-size: 4.5rem !important;
+}

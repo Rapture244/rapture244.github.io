@@ -27,6 +27,7 @@ theme = 'hugo-coder'
   info = 'Software Engineer'
   avatarURL = 'images/avatar.jpg'
   colorScheme = 'auto'
+  customCSS = ["css/custom.css"]
 
 # ================================================================================================ #
 # Navigation Menu                                                                                  #
