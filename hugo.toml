@@ -8,6 +8,16 @@ languageCode = 'en-us'
 theme = 'hugo-coder'
 
 # ================================================================================================ #
+# Markup Configuration                                                                             #
+# ================================================================================================ #
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow raw HTML in markdown (for icons, custom styling, etc.)
+
+
+# ================================================================================================ #
 # Theme Parameters                                                                                 #
 # ================================================================================================ #
 
@@ -31,6 +41,11 @@ theme = 'hugo-coder'
   name = "Projects"
   weight = 2
   url = "projects/"
+
+[[menu.main]]
+  name = "Open-Source"
+  weight = 3
+  url = "open-source/"
 
 # ================================================================================================ #
 # Social Links                                                                                     #
