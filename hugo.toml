@@ -3,7 +3,7 @@
 # ================================================================================================ #
 
 baseURL = 'https://rapture244.github.io/'
-title = 'Ovidiu Pascal'
+title = 'Ovidiu PASCAL'
 languageCode = 'en-us'
 theme = 'hugo-coder'
 
@@ -22,7 +22,7 @@ theme = 'hugo-coder'
 # ================================================================================================ #
 
 [params]
-  author = 'Ovidiu Pascal'
+  author = 'Ovidiu PASCAL'
   description = 'Software Engineer in Operational Research'
   info = 'Software Engineer'
   avatarURL = 'images/avatar.jpg'
