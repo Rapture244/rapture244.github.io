@@ -26,7 +26,7 @@ theme = 'hugo-coder'
   description = 'Software Engineer in Operational Research'
   info = 'Software Engineer'
   avatarURL = 'images/avatar.jpg'
-  favicon = 'favicon.svg'
+  faviconSVG = "/favicon.svg"
   colorScheme = 'auto'
   customCSS = ["css/custom.css"]
 
