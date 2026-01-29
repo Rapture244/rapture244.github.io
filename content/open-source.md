@@ -7,7 +7,7 @@ description: "Open source contributions and projects"
 
 ## <i class="fa-solid fa-circle-nodes"></i>  PyGraft-gen 
  
-[<i class="fa-brands fa-github"></i> GitHub](https://github.com/Orange-OpenSource/pygraft-gen) &nbsp;&nbsp; | &nbsp;&nbsp; <i class="fa-solid fa-book"></i> [Documentation](https://orange-opensource.github.io/pygraft-gen/)
+[<i class="fa-brands fa-github"></i> GitHub](https://github.com/Orange-OpenSource/pygraft-gen) &nbsp;&nbsp; | &nbsp;&nbsp;  [<i class="fa-solid fa-book"></i> Documentation](https://orange-opensource.github.io/pygraft-gen/)
 
 **Role:** Co-Creator & Lead Maintainer
 
